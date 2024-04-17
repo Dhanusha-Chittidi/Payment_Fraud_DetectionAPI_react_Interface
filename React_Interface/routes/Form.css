@@ -1,0 +1,17 @@
+.data{ height:30px;
+  width: 40%;
+    color : white;
+    background : rgba(90, 0, 90, 0.81);
+}
+::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+   
+  .submit{ width:10%;
+    height:25px;
+    background : violet;
+  }
+  #result{
+    color : white;
+  }
